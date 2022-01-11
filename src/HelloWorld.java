@@ -7,4 +7,9 @@ public class HelloWorld {
     //kopif0qweg gjw09ergn gjergfjjdjg jirsnfbowi hrmgvs;jdwngae
 
     // hsakvi frajg ;sjg e] ]di j
+
+    // Doing awesome work 3 !
+    // Awesome work 3 is done ready to be committed
+    // and ready to be pushed to remote repository
+
 }
